@@ -1,1 +1,1 @@
-# odin-recipesIn this project I will make a basic recipe website. After this, I will demonstrate the following skills: using links, images, paragraphs, headings, titles, strong text, emphasized text, ordered and unordered lists.
+# odin-recipes In this project I will make a basic recipe website. After this, I will demonstrate the following skills: using links, images, paragraphs, headings, titles, strong text, emphasized text, ordered and unordered lists.
