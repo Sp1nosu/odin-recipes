@@ -21,3 +21,8 @@ a {
 body {
     font-family: Arial, "Times New Roman", sans-serif;
 }
+
+.pic {
+    width: 350px ;
+    height: auto;
+}
