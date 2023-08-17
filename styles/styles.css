@@ -13,8 +13,9 @@ html {
     font-family: Arial, "Times New Roman", sans-serif;
 }
 
+
 .webname {
-    color: brown;
+    color: crimson;
     width: 205px;
     margin: 0 auto;
     display: block;
@@ -31,9 +32,16 @@ h2 {
     text-align: left;
 }
 
-.recipes-links {
+.iul {
     list-style-type: none;
-    position:relative; top:50px; left:-10px;
+}
+
+.recipe {
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    padding: 1px;
+    color:indianred;
 }
 
 .pic {
