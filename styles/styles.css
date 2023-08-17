@@ -1,4 +1,4 @@
-.back {
+.body {
     background-color: wheat;
 }
 
@@ -13,7 +13,7 @@ a {
     line-height: 2;
 }
 
-#ind {
+.recipes-links {
     list-style-type: none;
     position:relative; top:50px; left:-10px;
 }
